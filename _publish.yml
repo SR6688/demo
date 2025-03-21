@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a223cc7a-3d74-49da-b90f-5ee8937a6d8e
+      url: https://shengruizhou.netlify.app
